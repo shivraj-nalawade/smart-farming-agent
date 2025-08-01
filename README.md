@@ -1,62 +1,84 @@
-🌾 Smart Farming Agent
-An AI-powered assistant for small-scale farmers, built on IBM Watsonx and Granite models
+# 🌾 Smart Farming Agent
 
-Author: Shivraj Ramesh Nalawade
-College: MIT Academy of Engineering, Alandi, Pune
+**An AI-powered assistant for small-scale farmers, built on IBM Watsonx and Granite models**
 
-📌 Project Overview
-The Smart Farming Agent helps small-scale farmers make data-driven decisions by providing:
+> **Author:** Shivraj Ramesh Nalawade
+> **College:** MIT Academy of Engineering, Alandi, Pune
 
-Localized crop recommendations
+---
 
-Real-time weather forecasts
+## 📌 Project Overview
 
-Pest & disease management guidance
+The **Smart Farming Agent** helps small-scale farmers make **data-driven decisions** by providing:
 
-Current mandi (market) prices
+* **Localized crop recommendations**
+* **Real-time weather forecasts**
+* **Pest & disease management guidance**
+* **Current mandi (market) prices**
 
-This agent interacts in English, Hindi, and Marathi, making it accessible to farmers across regions.
+This agent interacts in **English, Hindi, and Marathi**, making it accessible to farmers across regions.
 
-🚀 Features
-🤖 AI-Powered: Built using IBM Watsonx.ai and Granite LLM
+---
 
-📚 Retrieval-Augmented Generation (RAG): Uses trusted agricultural advisories & market data
+## 🚀 Features
 
-🌦 Weather-Aware: Provides real-time weather-based advice
+* **🤖 AI-Powered:** Built using **IBM Watsonx.ai** and **Granite LLM**
+* **📚 Retrieval-Augmented Generation (RAG):** Uses trusted agricultural advisories & market data
+* **🌦 Weather-Aware:** Provides **real-time weather-based advice**
+* **💰 Mandi Prices:** Fetches current market rates to help with selling decisions
+* **🗓 Multilingual:** Supports **English, Hindi, and Marathi** for easy communication
+* **👩‍🌾 Simple Interface:** Farmer-friendly conversational design
 
-💰 Mandi Prices: Fetches current market rates to help with selling decisions
+---
 
-🗣 Multilingual: Supports English, Hindi, and Marathi for easy communication
+## 🛠️ Tech Stack
 
-👩‍🌾 Simple Interface: Farmer-friendly conversational design
+* **IBM Watsonx.ai** (Agent Lab, Runtime, Studio)
+* **IBM Granite Foundation Model**
+* **Retrieval-Augmented Generation (RAG)**
+* **APIs:** Weather & Mandi Price Data
+* **Languages:** Python / Node.js (for integration)
 
-🛠️ Tech Stack
-IBM Watsonx.ai (Agent Lab, Runtime, Studio)
+---
 
-IBM Granite Foundation Model
+## 📂 Project Structure
 
-Retrieval-Augmented Generation (RAG)
+```
+smart-farming-agent/
+│
+├── docs/                # Project documentation & resources
+├── data/                # Sample datasets (e.g., mandi prices, advisories)
+├── src/                 # Agent setup & code
+└── README.md            # Project overview (this file)
+```
 
-APIs: Weather & Mandi Price Data
+---
 
-Languages: Python / Node.js (for integration)
+## 🎯 End Users
 
+* **Small & Medium-scale Farmers**
+* **Agricultural Extension Officers**
+* **Agri-Tech Startups**
+* **State Agriculture Departments**
 
-🎯 End Users
-Small & Medium-scale Farmers
+---
 
-Agricultural Extension Officers
+## 🔮 Future Scope
 
-Agri-Tech Startups
+* **Voice-based interaction** for illiterate farmers
+* **IoT integration** with soil & climate sensors
+* **Mobile app** for wider accessibility
+* **Expanded regional language support**
 
-State Agriculture Departments
+---
 
+## 👨‍💻 Author
 
-🔮 Future Scope
-Voice-based interaction for illiterate farmers
+**Shivraj Ramesh Nalawade**
+MIT Academy of Engineering, Alandi, Pune
 
-IoT integration with soil & climate sensors
+---
 
-Mobile app for wider accessibility
+## 📜 License
 
-Expanded regional language support
+This project is licensed under the **MIT License** – feel free to use and improve.
