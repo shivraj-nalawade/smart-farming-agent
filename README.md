@@ -41,18 +41,7 @@ This agent interacts in **English, Hindi, and Marathi**, making it accessible to
 
 ---
 
-## 📂 Project Structure
 
-```
-smart-farming-agent/
-│
-├── docs/                # Project documentation & resources
-├── data/                # Sample datasets (e.g., mandi prices, advisories)
-├── src/                 # Agent setup & code
-└── README.md            # Project overview (this file)
-```
-
----
 
 ## 🎯 End Users
 
@@ -72,13 +61,4 @@ smart-farming-agent/
 
 ---
 
-## 👨‍💻 Author
 
-**Shivraj Ramesh Nalawade**
-MIT Academy of Engineering, Alandi, Pune
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and improve.
