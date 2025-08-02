@@ -36,8 +36,6 @@ This agent interacts in **English, Hindi, and Marathi**, making it accessible to
 * **IBM Watsonx.ai** (Agent Lab, Runtime, Studio)
 * **IBM Granite Foundation Model**
 * **Retrieval-Augmented Generation (RAG)**
-* **APIs:** Weather & Mandi Price Data
-* **Languages:** Python / Node.js (for integration)
 
 ---
 
