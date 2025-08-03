@@ -59,4 +59,46 @@ This agent interacts in **English, Hindi, and Marathi**, making it accessible to
 
 ---
 
+## ⚙️ Setting Up
+Here’s how we set up the **Smart Farming Agent** in IBM Watsonx:
+
+![Setting Up](images/setting-up.png)
+
+---
+
+## 🚀 Quick Start Questions
+A preview of the **Quick Start Questions** configured for the agent:
+
+![Quick Start Questions](images/quick-start-questions.png)
+
+---
+
+## 🧪 Tools Used & Testing 
+
+![Testing](images/testing.png)
+
+---
+
+## 📡 Deployment & Preview
+Our **deployed agent** running in IBM Watsonx:
+
+![Deployment & Preview](images/deployment-preview.png)
+
+---
+
+## 🏗 Deployment of AI Agent
+An overview of the **AI Agent Deployment process**:
+
+![AI Agent Deployment](images/ai-agent-deployment.png)
+
+---
+
+## 📊 Results
+Below are some outputs and results from the **Smart Farming Agent**:
+
+![Result 1](images/result1.png)
+![Result 2](images/result2.png)
+![Result 3](images/result3.png)
+![Result 4](images/result4.png)
+
 
